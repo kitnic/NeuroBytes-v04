@@ -4,7 +4,7 @@ U1	1	AVR ATTiny44a (12 I/O lines, 4kb flash memory)	ATTINY44A-SSURCT-ND
 K1, K2, K3, K4, K5, K6, K7	7	Input PCB connectors (dendrites): simple version (shrouded headers, wide pitch, insertion mount): also used for axons	A100097-ND				
 P1	4	Output connectors (axon terminals): simple version	A100020-ND				
 P2	12	Output connector terminals: simple version	A103922CT-ND				
-W	3	3-conductor wire output (axons, 4" lengths): simple version; 4-cond ribbon cable that can be stripped to 3-cond	ML04G-100-ND				
+W	3	"3-conductor wire output (axons, 4"" lengths): simple version; 4-cond ribbon cable that can be stripped to 3-cond"	ML04G-10-ND				
 D1	1	RGB LED (no processor): this dimmer unit is better, dude	160-2022-1-ND				
 R7, R9	2	Resistor for blue and green LED in RGB (75 ohm, min 0.05 watt)	RMCF0603JT75R0CT-ND				
 R8	1	Resistor for red LED in RGB (100 ohm, min 0.1 watt)	311-100CRCT-ND				
